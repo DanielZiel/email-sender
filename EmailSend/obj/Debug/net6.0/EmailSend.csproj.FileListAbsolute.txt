@@ -1,0 +1,12 @@
+E:\c#\EmailSender\EmailSend\bin\Debug\net6.0\EmailSend.deps.json
+E:\c#\EmailSender\EmailSend\bin\Debug\net6.0\EmailSend.dll
+E:\c#\EmailSender\EmailSend\bin\Debug\net6.0\EmailSend.pdb
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.csproj.AssemblyReference.cache
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.AssemblyInfoInputs.cache
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.AssemblyInfo.cs
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.csproj.CoreCompileInputs.cache
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.dll
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\refint\EmailSend.dll
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\EmailSend.pdb
+E:\c#\EmailSender\EmailSend\obj\Debug\net6.0\ref\EmailSend.dll
